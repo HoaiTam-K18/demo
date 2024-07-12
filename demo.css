@@ -1,0 +1,42 @@
+.flex
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: chocolate;
+
+    padding: 20px 0px;
+}
+
+h1{
+    color: rgb(62, 30, 115);
+}
+
+.btn_black
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(54, 49, 49);
+    color: white;
+    border-radius: 22px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+    margin: 0px 8px;
+}
+
+.btn_white
+{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 12px;
+    color: black;
+    border-radius: 22px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+    border: none;
+}
+
