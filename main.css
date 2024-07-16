@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(75, 235, 181);
+    background-color: rgb(58, 175, 131);;
 }
 
 #login{
@@ -40,27 +40,30 @@ p{
 }
 
 .input{
-    width: 70%;
+    width: 80%;
     height: 20px;
     position: relative;
     bottom: 8px;
     right:4px;
+    border: 0;
+    background-color: rgb(246, 243, 239);
 }
 
 button{
     margin: 20px;
     width: 70%;
     height: 30px;
-    background-color: rgb(75, 235, 181);
+    background-color: rgb(58, 175, 131);;
 }
 
 #last_text{
     margin: 0 auto;
+    text-align: center;
 }
 
 .img
 {
     margin-top: 5px;
-    width: 25px;
-    height: 25px;
+    width: 23px;
+    height: 23px;
 }
